@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: aqua;
+    width: 500px;
+    display: flex;
+    color: blue;
+    font-weight: bold;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+.first img{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    height: 150px;
+    border: 3px solid white;
+}
+.second{
+    margin-left: 40px;
+
+}
+.second h1{
+    margin-top: 30px;
+}
+hr{
+    margin-top: 10px;
+}
+.phn{
+    margin-top: 15px;
+}
+.phn p{
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.gmail{
+    margin-top: 15px;
+}
+.gmail p{
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.company{
+    margin-top: 15px;
+}
+.company p{
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.loaction{
+    margin-top: 15px;
+}
+.loaction p{
+    margin-top: -20px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.font-awesome{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.font-awesome i{
+    margin-right: 10px;
+}
